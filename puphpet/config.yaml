@@ -92,7 +92,7 @@ server:
         - vim
         - php-mbstring
         - php-zip
-        - php-imagemagick
+        - php-imagick
 users_groups:
     install: '1'
     groups: {  }
